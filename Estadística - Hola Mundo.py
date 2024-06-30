@@ -1,1 +1,0 @@
-print ("Hola mundo, soy Kevin Camacho, del paralelo 004, Estadística")
