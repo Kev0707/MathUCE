@@ -26,7 +26,12 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📙 [Clase 8: Estructuras de control en Python y Demostraciones Matemáticas con Nociones de Distancia](https://colab.research.google.com/drive/1WPIYkq7f-qZyTCiisAVe-ing0EnyhnQT?usp=sharing)
 - 📕 [Clase 9: Espacios Métricos y Conjuntos Abiertos.](https://colab.research.google.com/drive/1Yn91uj3cFLr7u_qQZPiArMUaBzon2Lo7?usp=sharing)
 - 📒 [Clase 10: Derivadas y secuencias.](https://colab.research.google.com/drive/1acP7shHDGoVrzTjKKU67o_3kuoiuFtG3?usp=sharing)
-
+- 📗 [Clase 11: Cálculo y Derivadas](https://colab.research.google.com/drive/1qUi7W8SCCGAMLUoeE9kSf7KBdoS-T-uG?usp=sharing#scrollTo=ZSeaAdgEyo3Z)
+- 📙 [Clase 12: Series de Taylor y Funciones](https://colab.research.google.com/drive/1dQbMSpeFzDnjgKSekESQn_QYYoMfExWk?usp=sharing#scrollTo=ZeEjUzX9v46F)
+- 📕 [Clase 13: Teorema Fundamental del Cálculo](https://colab.research.google.com/drive/1H7GWDR8-SyEYcJC-kvNKa1qdmDBKOuUK?usp=sharing)
+- 📒 [Tutoría: Clase 1-10](https://colab.research.google.com/drive/1hX76cpTqTwyEGC5z_WAdCiORO7J2RjYF?usp=sharing)
+- 📘 [Banco de Preguntas](https://colab.research.google.com/drive/12SWbW0IeBPP1R1TCM0SF_XbhdG6o8aZw?usp=sharing#scrollTo=lW57-ExgQZ5T)
+  
 ## Cómo Contribuir
 
 ¡Las contribuciones son bienvenidas! Si tienes algún problema, solución o recurso que quieras compartir, siéntete libre de hacer un pull request. Para más detalles sobre cómo contribuir, revisa nuestra [guía de contribuciones](CONTRIBUTING.md).
