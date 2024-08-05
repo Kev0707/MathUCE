@@ -1,4 +1,4 @@
-✨ # Bienvenido al Repositorio de Matemáticas ✨
+✨ Bienvenido al Repositorio de Matemáticas ✨
 
 ¡Hola! 🎉
 
