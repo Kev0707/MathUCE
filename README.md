@@ -31,6 +31,22 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📕 [Clase 13: Teorema Fundamental del Cálculo](https://colab.research.google.com/drive/1H7GWDR8-SyEYcJC-kvNKa1qdmDBKOuUK?usp=sharing)
 - 📒 [Tutoría: Clase 1-10](https://colab.research.google.com/drive/1hX76cpTqTwyEGC5z_WAdCiORO7J2RjYF?usp=sharing)
 - 📘 [Banco de Preguntas](https://colab.research.google.com/drive/12SWbW0IeBPP1R1TCM0SF_XbhdG6o8aZw?usp=sharing#scrollTo=lW57-ExgQZ5T)
+
+-------------
+## **🌟Referencias y Licencias**
+
+Este trabajo utiliza material del curso "Matemáticas y Programación para Ciencias Sociales" de FLACSO Ecuador.
+
+Pérez, F. (2024). Matemáticas y Programación para Ciencias Sociales. FLACSO Ecuador.
+- Repositorio GitHub: https://github.com/franperezec/math (Licencia MIT)
+- Canal de YouTube: https://www.youtube.com/@FranciscoPerezMatematicas (CC BY 4.0)
+
+Al utilizar este material, acepto cumplir con los términos de las licencias MIT y Creative Commons BY 4.0 respectivamente.
+
+Para más detalles sobre las licencias o usos adicionales, consultar:
+- Licencia MIT: https://opensource.org/licenses/MIT
+- CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.es
+-------------
   
 ## Cómo Contribuir
 
@@ -45,3 +61,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme
 ---
 
 Happy Mathing! ✨
+
